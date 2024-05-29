@@ -3,7 +3,7 @@ torch
 torchvision
 torchaudio
 huggingface_hub
-transformers==4.30.2
+transformers>=4.31.0
 gradio
 soundfile
 progressbar
